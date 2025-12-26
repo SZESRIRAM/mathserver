@@ -63,7 +63,6 @@ urlpatterns = [
 ```
 math.html
 ```
-<!DOCTYPE html>
 <html>
 <head>
     <title>Power Calculation</title>
